@@ -8,7 +8,7 @@ ReadMe.md
 - Cài đặt Python >=3.8.
 
 - Clone repo: $ git clone https://github.com/rupeshs/fastsdcpu.git
-
+ hoặc https://github.com/thuong99dx/fastsdcpu_nextg.git
 - Cách 1:
   - Vào terminal, đi đến thư mục fastsdcpu
 
