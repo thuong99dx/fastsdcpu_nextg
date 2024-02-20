@@ -1,10 +1,6 @@
-Find what you need faster … 
-Home is your new landing page and surfaces your most relevant files and folders
-ReadMe.md
-
-#Fastsd CPU-Openvino  
-##Hướng dẫn cài đặt
-#1. FastSD CPU on Linux
+# Fastsd CPU-Openvino  
+## Hướng dẫn cài đặt
+# 1. FastSD CPU on Linux
 - Cài đặt Python >=3.8.
 
 - Clone repo: $ git clone https://github.com/rupeshs/fastsdcpu.git
