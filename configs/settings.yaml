@@ -1,0 +1,24 @@
+lcm_diffusion_setting:
+  diffusion_task: text_to_image
+  guidance_scale: 1
+  image_height: 512
+  image_width: 512
+  inference_steps: 1
+  init_image: null
+  lcm_lora:
+    base_model_id: Lykon/dreamshaper-8
+    lcm_lora_id: latent-consistency/lcm-lora-sdv1-5
+  lcm_model_id: stabilityai/sd-turbo
+  negative_prompt: ''
+  number_of_images: 1
+  openvino_lcm_model_id: rupeshs/sd-turbo-openvino
+  prompt: ''
+  seed: 123123
+  strength: 0.6
+  use_lcm_lora: false
+  use_offline_model: false
+  use_openvino: false
+  use_safety_checker: false
+  use_seed: false
+  use_tiny_auto_encoder: false
+results_path: /home/nextg-solutions/Desktop/fastsdcpu/results
